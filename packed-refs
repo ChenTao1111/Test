@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+c0a8663da3872b410b14ae41a3a487f9c39940ed refs/remotes/origin/async-rewrite
+74344df84f1aa2386c2b6a218e6411f2b23f560a refs/remotes/origin/bugfix/52-volume-already-in-use
+cbbfff91cf23036f206d7da573c9cf781e88182b refs/remotes/origin/feature/48-mysql-connection-pool
+0a5c2d6aacb831f77e3d42eb280dca5800ac0ea5 refs/remotes/origin/feature/6-simplify-deployment
+336bb6330a3a6523db5512be2a90fd2b7e4579e5 refs/remotes/origin/gh-pages
+0008f72e9bf7dbb2bbbf6424c7d62058a4dc9b13 refs/remotes/origin/master
